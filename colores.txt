@@ -1,0 +1,4 @@
+Negro	
+Amarillo
+Marrón
+Violeta
